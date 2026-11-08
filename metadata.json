@@ -1,0 +1,6 @@
+{
+  "name": "Safari Kids English - Animales y Mascotas",
+  "description": "App interactiva para aprender inglés en 1° básico: animales, adjetivos, colores, pronunciación con micrófono, juegos interactivos y canciones.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
